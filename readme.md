@@ -1,6 +1,6 @@
 # LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging (CVPR 2026)
 <p align="center">
-He Huang, Yujun Guo, Wei He*
+He Huang, Yujun Guo, <a href="https://prowdiy.github.io/weihe.github.io/">Wei He</a>*
 </p>
 <p align="center">
 LIESMARS, Wuhan University, Wuhan, China
