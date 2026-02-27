@@ -45,6 +45,7 @@ with significantly reduced computational cost.
 <em>Overview of the LRDUN Architecture</em>
 </p>
 
+
 ## 🛠️ Installation
 
 Ensure you have PyTorch and the required dependencies installed.
@@ -85,6 +86,11 @@ LRDUN_final/
 │       └── physical_op.py 
 └── assert/                # Visualizations and illustrations
 ```
+
+## 📥 Download
+The pre-trained checkpoints and experimental results can be found at 
+[Google Drive Link](https://drive.google.com/drive/folders/1QzhSuZgqrEUCEOv90oHeSVqus1xSok31?usp=drive_link).
+
 
 ## 🚀 Usage
 
