@@ -1,4 +1,11 @@
 # LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging (CVPR 2026)
+<p align="center">
+He Huang, Yujun Guo, Wei He*
+</p>
+<p align="center">
+LIESMARS, Wuhan University, Wuhan, China
+</p>
+
 
 This is the official PyTorch implementation of the CVPR 2026 paper [**"LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging"**](https://arxiv.org/abs/2511.18513).
 
