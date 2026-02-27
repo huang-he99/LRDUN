@@ -144,7 +144,7 @@ model = LRDUN(stage=stg_num, dim=16, rank=11, bands=28).cuda()
 checkpoint = load_file(checkpoint_path)
 model.load_state_dict(checkpoint)
 
-save_dir_path = Path('./results/simu')
+save_dir_path = Path(f'./results/simu/lrdun_{stg_num}stg/')
 save_dir_path.mkdir(exist_ok=True, parents=True)
 
 psnr_list, ssim_list, sam_list = [], [], []
